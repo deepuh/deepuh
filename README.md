@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am currently a CS major at UWT on my senior year.
 
 <!--
 **deepuh/deepuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
